@@ -2,9 +2,9 @@
 
 **Follow one shipment into Canada, step by step.** Pick sea or air freight, choose a side (exporter or importer), a route and a product, then play through every stage of the move: the paperwork, the people, and the trucks, ships, trains and planes that carry it.
 
-**[Play it in your browser](https://YOUR-USERNAME.github.io/cargo-voyage/)** — works on desktop and phone, no install.
+**[Play it in your browser](https://markfourman.github.io/cargo-voyage/)** — works on desktop and phone, no install.
 
-![Self-test](https://github.com/YOUR-USERNAME/cargo-voyage/actions/workflows/selftest.yml/badge.svg)
+![Self-test](https://github.com/markfourman/cargo-voyage/actions/workflows/selftest.yml/badge.svg)
 
 ![A container being lifted onto the ship at Santos Port](assets/screenshot-desktop.png)
 
