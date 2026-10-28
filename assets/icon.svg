@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#13324d"/>
+  <g transform="translate(286 92) rotate(-10)" fill="#f7f9fb">
+    <path d="M0 30c0-9 9-14 20-14h100c18 0 30 7 30 14s-12 14-30 14H20C9 44 0 39 0 30z"/>
+    <path d="M62 30L36 86h24l44-56z"/>
+    <path d="M62 30L38-20h22l42 50z" opacity=".85"/>
+    <path d="M8 26L-4-8h16l20 32z"/>
+  </g>
+  <rect x="167" y="186" width="86" height="62" fill="#c8463c"/>
+  <rect x="257" y="186" width="86" height="62" fill="#4f9fd0"/>
+  <rect x="122" y="252" width="86" height="62" fill="#4f9fd0"/>
+  <rect x="212" y="252" width="86" height="62" fill="#e66e1e"/>
+  <rect x="302" y="252" width="86" height="62" fill="#f7f9fb"/>
+  <path d="M189 190v54M211 190v54M233 190v54M279 190v54M301 190v54M323 190v54M144 256v54M166 256v54M188 256v54M234 256v54M256 256v54M278 256v54M324 256v54M346 256v54M368 256v54" stroke="#000" stroke-opacity=".18" stroke-width="5"/>
+  <path d="M86 320h340l-46 84H132z" fill="#f4c430"/>
+  <path d="M100 436q38-16 76 0t76 0t76 0t76 0" stroke="#4f9fd0" stroke-width="13" fill="none" stroke-linecap="round"/>
+</svg>
