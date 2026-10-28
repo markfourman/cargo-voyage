@@ -44,8 +44,8 @@ node tests/selftest.js
 
 1. On the repository page, open **Settings → Pages**.
 2. Under **Build and deployment**, set **Source** to *Deploy from a branch*, choose `main` and `/ (root)`, then **Save**.
-3. After a minute the site is live at `https://YOUR-USERNAME.github.io/cargo-voyage/`.
-4. In `index.html` and this README, replace `YOUR-USERNAME` with your GitHub username so link previews on LinkedIn show the right image.
+3. After a minute the site is live at `https://markfourman.github.io/cargo-voyage/`.
+4. In `index.html` and this README, replace `markfourman` with your GitHub username so link previews on LinkedIn show the right image.
 
 On a phone, use **Add to Home Screen** to open it like an app.
 
@@ -69,4 +69,4 @@ On a phone, use **Add to Home Screen** to open it like an app.
 
 ## License
 
-MIT. Built by YOUR NAME.
+MIT. Built by Mark Fourmanovskis.
